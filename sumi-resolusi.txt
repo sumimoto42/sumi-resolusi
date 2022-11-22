@@ -1,3 +1,3 @@
 SUMI RESOLUSI
 - belajar membuat kontent
-- belajar meng upload kontent
+- belajar meng upload kontent di github
